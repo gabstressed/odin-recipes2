@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    text-align: center;
+  }
+  
+  .background { 
+  
+              position: absolute;
+              height: 100%;
+              width: 100%;
+              background-image: url("./drinks.png");
+              background-size: cover;
+              background-position: center;
+              filter: blur(5px);
+              z-index: -1;
+          } 
+  
+  h1, a {
+      color: white;
+  }
+  
+  h1 {
+    font-family: courier new;
+  }
+  
+  a {
+    font-family: monospace;
+    
+  }
+  
+  hr {
+    margin-top: -15px
+  }
