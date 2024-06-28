@@ -1,1 +1,1 @@
-# odin-recipes2
+# project of static sites for training purposes
